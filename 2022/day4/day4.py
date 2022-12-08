@@ -49,7 +49,7 @@ for i in range(len(elf1)):
     overlap += checkOverlap(elf1[i], elf2[i])
 
 # print results
-print("Day 3")
+print("Day 4")
 print(contained)
 print(overlap)
 
